@@ -83,10 +83,3 @@ This repository contains machine learning models developed for the "Design of Al
 
 (Note: For minimum density, the Expected Improvement calculation in the notebook currently identifies "improvement" as values higher than the current maximum observed density. For true minimization, this acquisition function would ideally be adapted to find compositions that minimize the density, or a Lower Confidence Bound (LCB) acquisition function could be used.)
 
-## Contributing
-
-Contributions are welcome! If you have suggestions for improving the models, adding new features, or fixing bugs, please feel free to open an issue or submit a pull request.
-
-## License
-
-*(You might want to add a license here, e.g., MIT, Apache 2.0, etc.)*
