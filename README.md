@@ -21,8 +21,6 @@ This repository contains machine learning models developed for the "Design of Al
 ## Repository Structure
 * `Density_prediction_model.ipynb`: Jupyter Notebook containing the code for predicting minimum density of Al alloys.
 * `maxStress_prediction_model.ipynb`: Jupyter Notebook containing the code for predicting maximum stress of Al alloys.
-* `Density_target.xlsx`: Excel file containing the target density data for training and testing the density prediction model.
-* `maxStress_target.xlsx`: Excel file containing the target maximum stress data for training and testing the stress prediction model.
 * `README.md`: This file.
 
 ## Getting Started
