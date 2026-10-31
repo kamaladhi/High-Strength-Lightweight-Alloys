@@ -126,10 +126,7 @@ Both models use SVR with a linear kernel (the best configuration found by grid s
 
 ## Acknowledgements
 
-- Dataset / reference paper: _add source here_
 - [CBFV](https://github.com/kaaiian/CBFV) for composition-based feature vectors
 - Course: Material Informatics, Semester 2
 
-## License
 
-_Add a license (for example MIT), or remove this section._
